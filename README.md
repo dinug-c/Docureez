@@ -1,2 +1,2 @@
-# Lustrum7
-Web page dokumentasi kegiatan Lustrum 7
+# Welcome to Docureez
+This is all about documentation that i've captured or managed
